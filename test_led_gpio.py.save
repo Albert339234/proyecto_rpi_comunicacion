@@ -1,0 +1,12 @@
+"""
+Nombre: Albert Garcia 
+Equipo: 1
+Dispositivo: LED
+Rol: Salida
+Descripcion: Encender un LED conectado al GPIO 17 de la Raspberry pi.
+""
+
+import time
+import RPi.GPIO as GPIO
+
+ def loop() 
