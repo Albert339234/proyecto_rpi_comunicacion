@@ -1,4 +1,4 @@
-#control de LED con PWM en Raspberry pi
+S#control de LED con PWM en Raspberry pi
 
 **Nombre:** Albert Garcia
 **Equipo:** 1
